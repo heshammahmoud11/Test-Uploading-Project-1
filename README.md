@@ -8,6 +8,6 @@ Built with file-based storage and full CRUD operations.
 
 ## Project Output
 ### Add Client Menu
-! [Add Client Menu] (screenshot/project-1.png)
+![Add Client Menu](screenshot/project-1.png)
 
 
